@@ -1,1 +1,1 @@
-# mathematics_for_CS_python
+# Master's degree | Numerical Programming in Python course | Homeworks
