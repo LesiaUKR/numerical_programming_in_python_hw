@@ -12,7 +12,6 @@ import numpy as np
 import seaborn as sns
 import matplotlib.pyplot as plt
 import re
-import string
 from sklearn.model_selection import train_test_split, GridSearchCV
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.naive_bayes import MultinomialNB
